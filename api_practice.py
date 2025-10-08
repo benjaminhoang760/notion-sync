@@ -1,6 +1,7 @@
 import argparse
 import json
 from datetime import datetime
+"change. deteleme"
 
 def get_quote_offline():
     # stand-in "API result" so you can practice CLI + saving without internet
